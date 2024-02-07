@@ -1,0 +1,8 @@
+[/Script/EngineSettings.GeneralProjectSettings]
+ProjectID=28C730FE41100981C8377B92B61BB415
+ProjectName=Obstacle Assault
+ProjectVersion=5.2
+
+[StartupActions]
+bAddPacks=False
+
